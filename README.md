@@ -1,4 +1,7 @@
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/862801d4-c0cd-4ef3-8a2c-179136f5d0dd" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/862801d4-c0cd-4ef3-8a2c-179136f5d0dd" /><img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/fcdcc576-7c11-45ce-a309-7903d790cccd" /><img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/45959e47-c5e9-4739-8a5d-93f8f40dfb44" /><img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/0bc1d9c3-d4da-4dc0-b2c8-4115c61ab6b4" />
+
+
+
 
 # 💫 About Me:
 🔭 I’m currently working on<br>Building real-time web applications and dashboards with WebSockets and Firebase, alongside machine learning models for clinical risk prediction and custom web scripts.<br><br>👯 I’m looking to collaborate on<br>Security-focused tooling, full-stack JavaScript/TypeScript projects, and open-source cybersecurity frameworks (like SET / Social-Engineer Toolkit).<br><br>🤝 I’m looking for help with<br>Advanced deep learning architectures (e.g., Deep Stacked Autoencoders) and optimizing cross-platform command-line utility workflows across Linux and Windows.<br><br>🌱 I’m currently learning<br>Database system development, advanced C#/.NET web APIs, and configuring secure portable environments (Tails OS).<br><br>💬 Ask me about<br>WebSockets, custom dashboards, database development, Git workflows, multi-OS environments (Ubuntu/Kali/Windows), or optimizing Elden Ring character builds!<br><br>⚡ **Fun fact**<br>I share a handle with a samurai-inspired persona (`3lijax`) and love setting up secure, bootable Linux drives for computing on the go.
