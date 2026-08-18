@@ -4,7 +4,7 @@
 
 
 
-
+3LIJAX
 # 💫 About Me:
 🔭 I’m currently working on<br>Building real-time web applications and dashboards with WebSockets and Firebase, alongside machine learning models and custom web scripts.<br><br>👯 I’m looking to collaborate on<br>Security-focused tooling, full-stack JavaScript/TypeScript projects, and open-source cybersecurity frameworks.<br><br>🤝 I’m looking for help with<br>Advanced deep learning architectures (e.g., Deep Stacked Autoencoders) and optimizing cross-platform command-line utility workflows across Linux and Windows.<br><br>🌱 I’m currently learning<br>Database system development, advanced C#/.NET web APIs, and configuring secure portable environments (Tails OS).<br><br>💬 Ask me about<br>WebSockets, custom dashboards, database development, Git workflows, multi-OS environments (Ubuntu/Kali/Windows) <br><br>⚡ **Fun fact**<br>Hit me up to help optimizing Elden Ring character builds!
 
