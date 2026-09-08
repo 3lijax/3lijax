@@ -125,33 +125,11 @@ Current Passion: Deep Stacked Autoencoders & High-Frequency WebSockets
 
 ---
 
-# 📊 GitHub Stats
+# 📊 Dynamic byte
 
 <div align="center">
 
-  <table border="0">
-    <tr>
-      <td align="center" width="50%">
-        <a href="https://github.com/3lijax">
-          <img src="https://github-stats-extended.vercel.app/api?username=3lijax&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="3lijax's GitHub Stats" width="100%" />
-        </a>
-      </td>
-      <td align="center" width="50%">
-        <a href="https://github.com/3lijax">
-          <img src="https://streak-stats.demolab.com/?user=3lijax&theme=tokyonight&hide_border=true" alt="3lijax's Streak Stats" width="100%" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <a href="https://github.com/3lijax">
-          <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=3lijax&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" width="80%" />
-        </a>
-      </td>
-    </tr>
-  </table>
-
-  <br/>
+ 
 
   <a href="https://quotes-github-readme.vercel.app/">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
