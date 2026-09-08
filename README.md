@@ -5,7 +5,7 @@
   # ⚡ 3LIJAX
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=550&lines=Full-Stack+Developer+%26+Security+Enthusiast;Real-Time+Web+Apps+%26+WebSocket+Dashboards;Machine+Learning+%26+Clinical+Data+Modeling;Multi-OS+Specialist+(Kali+%2F+Ubuntu+%2F+Tails);Optimizing+Elden+Ring+Builds+%E2%9A%94%EF%B8%8F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=550&lines=Full-Stack+Developer+%26+Security+Enthusiast;Real-Time+Web+Apps+%26+WebSocket+Dashboards;Multi-OS+Specialist+(Kali+%2F+Ubuntu+%2F+Tails);Optimizing+Elden+Ring+Builds+%E2%9A%94%EF%B8%8F" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -20,7 +20,7 @@
   <p>
     <a href="#-about-me"><b>💫 About Me</b></a> •
     <a href="#-tech-stack"><b>💻 Tech Stack</b></a> •
-    <a href="#-github-stats"><b>📊 GitHub Stats</b></a> •
+    <a href="#-dynamic-byte"><b>📊 Dynamic Byte</b></a> •
     <a href="#-elden-ring-build-lab"><b>⚔️ Elden Ring Lab</b></a> •
     <a href="#-connect--socials"><b>🌐 Connect</b></a>
   </p>
