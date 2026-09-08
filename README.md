@@ -30,15 +30,11 @@
 ---
 
 # 💫 About Me
+<div align="center">
+  <img src="./assets/system-card.svg" alt="3lijax System Diagnostics" width="100%" />
+</div>
 
-```yaml
-Name: Elijah
-Handle: 3lijax
-Focus: Full-Stack Engineering, Real-Time Architecture, Cybersecurity & Machine Learning
-Location: Nairobi, Kenya
-Operating Systems: Ubuntu | Kali Linux | Tails OS | Windows 11
-Current Passion: Deep Stacked Autoencoders & High-Frequency WebSockets
-```
+<br/>
 
 - 🔭 **Currently Building**: Real-time web applications and reactive dashboards powered by WebSockets, Firebase, and machine learning models.
 - 👯 **Open to Collaboration**: Security-focused utilities, full-stack JavaScript/TypeScript applications, and open-source cybersecurity frameworks.
