@@ -31,7 +31,7 @@
 
 # 💫 About Me
 <div align="center">
-  <img src="./assets/system-card.svg" alt="3lijax System Diagnostics" width="100%" />
+  <img src="https://raw.githubusercontent.com/3lijax/3lijax/main/assets/system-card.svg" alt="3lijax System Diagnostics" width="100%" />
 </div>
 
 <br/>
