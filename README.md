@@ -20,7 +20,6 @@
   <p>
     <a href="#-about-me"><b>💫 About Me</b></a> •
     <a href="#-tech-stack"><b>💻 Tech Stack</b></a> •
-    <a href="#-featured-projects"><b>🚀 Featured Projects</b></a> •
     <a href="#-github-stats"><b>📊 GitHub Stats</b></a> •
     <a href="#-elden-ring-build-lab"><b>⚔️ Elden Ring Lab</b></a> •
     <a href="#-connect--socials"><b>🌐 Connect</b></a>
@@ -122,49 +121,6 @@ Current Passion: Deep Stacked Autoencoders & High-Frequency WebSockets
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-</details>
-
----
-
-# 🚀 Featured Projects
-
-<details open>
-<summary><b>🧬 GDM — Clinical Machine Learning Prediction System</b></summary>
-<br/>
-
-> **Repository:** [3lijax/GDM](https://github.com/3lijax/GDM)  
-> **Domain:** Healthcare AI / Machine Learning  
-> **Technologies:** Python, Scikit-Learn, Pandas, NumPy, Data Preprocessing Pipelines  
-
-- Engineered a machine learning predictive pipeline for early diagnosis of **Gestational Diabetes Mellitus (GDM)** from clinical biomarkers.
-- Implemented feature selection, missing data imputation, and comparative model evaluation (Random Forest, Gradient Boosting, Logistic Regression).
-- Designed for interpretability and high recall to minimize false negatives in medical screening.
-
-</details>
-
-<details open>
-<summary><b>⚡ .NET API Wrapper & High-Performance Client</b></summary>
-<br/>
-
-> **Repository:** [3lijax/net-api-wrapper-with-source](https://github.com/3lijax/net-api-wrapper-with-source)  
-> **Domain:** Backend Architecture & API Engineering  
-> **Technologies:** C#, .NET 8 / Core, RESTful APIs, HTTP Client Factory  
-
-- Structured, modular .NET API wrapper client with comprehensive source code.
-- Features resilient request pipelines, custom serialization, token lifecycle management, and rate-limit backoff handling.
-
-</details>
-
-<details>
-<summary><b>🌐 Deriv.com Platform — Real-Time Trading Web Architecture</b></summary>
-<br/>
-
-> **Repository:** [3lijax/deriv-com](https://github.com/3lijax/deriv-com)  
-> **Domain:** Financial Tech & High-Frequency Web Applications  
-> **Technologies:** JavaScript, WebSockets, Responsive UI Components  
-
-- Exploratory architectural fork focusing on WebSocket event streaming, reactive chart updates, and low-latency trading interfaces.
-
 </details>
 
 ---
